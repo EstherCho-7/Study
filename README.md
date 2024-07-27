@@ -1,4 +1,4 @@
-# STUDY 0728
-- Study for test
+# STUDY 
+- Study
 
 ## There's nothing to see
